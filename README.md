@@ -2,44 +2,36 @@
 
 # Business Analysis Foundations Course
 
-## Course Overview
-Completed a comprehensive course on business analysis, focusing on essential industry practices including *stakeholder management*, *requirements gathering*, *risk management*, and *requirement validation*. Gained expertise in utilizing *AI* to enhance *requirements solicitation*, developing *requirements documentation*, and ensuring successful *project delivery*. Acquired practical skills in analyzing business processes, managing *project scope*, and facilitating communication between *stakeholders* to ensure alignment with organizational goals.
 
----
+## Course Description
+Completed an in-depth course on Business Analysis, covering essential techniques for requirements elicitation, stakeholder management, and project documentation. Gained expertise in active listening, gap analysis, strategic follow-ups, and fostering strong stakeholder relationships. Developed skills in identifying requirements gaps, analyzing user feedback, and using frameworks to improve project outcomes, making me well-equipped to contribute to the success of software engineering projects.
 
-## Key Terms and Definitions
+## Key Industry Terms & Explanations
 
-### 1. Stakeholder Management
-Refers to the process of identifying, understanding, and managing relationships with individuals or groups that have an interest or influence in a project. In business analysis, this ensures that stakeholders' needs and expectations are addressed throughout the project lifecycle.
+### 1. Requirements Elicitation
+- **Definition**: The process of gathering, understanding, and documenting stakeholders' needs and expectations for a project. It’s a critical first step in business analysis and ensures the project aligns with business goals.
+  
+### 2. Stakeholder Management
+- **Definition**: The process of identifying, analyzing, and managing individuals or groups who have an interest in the project. Effective stakeholder management ensures their needs are addressed, which leads to project success.
 
-### 2. Requirements Gathering
-The process of collecting, documenting, and analyzing the requirements of stakeholders to ensure that the project outcomes align with their expectations. This is a crucial part of the business analysis process to avoid misunderstandings and ensure project success.
+### 3. Active Listening
+- **Definition**: A communication technique that involves fully concentrating, understanding, responding, and remembering what is being said. It ensures that the requirements captured are accurate and aligned with stakeholder needs.
 
-### 3. Risk Management
-The identification, assessment, and mitigation of potential risks that could affect a project. A business analyst needs to assess both business and technical risks and work with stakeholders to develop strategies to reduce or eliminate these risks.
+### 4. Gap Analysis
+- **Definition**: A method for assessing the difference between the current state and the desired future state. It's used to identify areas where the project can improve or align better with business goals.
 
-### 4. Requirements Validation
-Ensures that the requirements gathered are correct, complete, and feasible. This involves reviewing and confirming that the documented requirements match stakeholders' expectations and can be realistically implemented within the project constraints.
+### 5. Strategic Follow-Ups
+- **Definition**: The act of reaching out to stakeholders after an initial conversation to clarify points, provide updates, or ask additional questions. It helps ensure that requirements are fully understood and met.
 
-### 5. AI in Requirements Solicitation
-The use of *Artificial Intelligence* tools to support the gathering of requirements by providing insights, analyzing trends, and automating note-taking or summarization. AI can help generate more informed questions, assist in research, and even improve follow-up after meetings.
+### 6. Frameworks and Visual Models
+- **Definition**: A structured approach to organizing and representing information visually. In business analysis, frameworks and diagrams help stakeholders understand processes, requirements, and decisions.
 
-### 6. Requirements Documentation
-A formal record of the collected and validated requirements, typically written in a Business Requirements Document (BRD) or Software Requirements Specification (SRS). This serves as a reference point throughout the project and ensures all parties have a shared understanding of the project scope.
+### 7. Stakeholder Feedback
+- **Definition**: The input, reactions, and concerns provided by stakeholders throughout the project lifecycle. Feedback is essential for refining project deliverables and aligning them with expectations.
 
-### 7. Project Scope
-Defines the boundaries of a project by outlining its deliverables, goals, and objectives. Managing the scope helps prevent scope creep, ensuring the project remains on track and aligned with stakeholders' needs.
+### 8. Follow-Up Emails
+- **Definition**: A method of communicating with stakeholders post-meeting to reinforce key points, decisions, and next steps. These emails should be concise, clear, and action-oriented.
 
-### 8. Project Delivery
-The process of managing a project from start to finish, ensuring that it is completed on time, within budget, and to the specified quality standards. It involves coordinating resources, managing risks, and ensuring all stakeholders are kept informed.
-
-### 9. Business Process Analysis
-Involves understanding and evaluating the business processes within an organization to identify areas for improvement or automation. Business analysts often map current processes and propose optimized solutions for greater efficiency.
-
-### 10. Communication between Stakeholders
-Effective communication is key to ensuring that all parties involved in a project are aligned and informed. This includes regularly updating stakeholders, addressing concerns, and ensuring their feedback is considered in the project.
-
----
 
 # Requirements Elicitation: Using Interviewing and Conversations
 
